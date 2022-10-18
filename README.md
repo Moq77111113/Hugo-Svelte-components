@@ -1,9 +1,10 @@
-## Personal Website
+## Hugo Svelte Tailwind Template
 
-This platform frontend built with Svelte, Tailwind, & Hugo. 
+I built this template to develop static websites with Hugo and custom Svelte components. It also uses Tailwindcss. 
 
 ##  Introduction
 All static content is managed with Hugo in the `content` dir. 
+Componenets can be written in the `app` dir, and it must use a custom tag.
 
 ### How to Run it
 
